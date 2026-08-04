@@ -58,3 +58,13 @@ The dashboard includes:
 
 ![COVID-19 Tableau Dashboard](./Tableau/covid19_tableau_dashboard.png)
 ## Repository Structure
+
+covid19-data-analysis
+│
+├── SQL
+│   └── covid19_analysis.sql
+│
+├── Tableau
+│   └── covid19_tableau_dashboard.png
+│
+└── README.md
