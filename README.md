@@ -56,6 +56,5 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-![COVID-19 Tableau Dashboard](Tableau/covid19_tableau_dashboard.png)
-
+![COVID-19 Tableau Dashboard](./Tableau/covid19_tableau_dashboard.png)
 ## Repository Structure
